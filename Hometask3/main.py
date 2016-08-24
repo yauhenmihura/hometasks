@@ -10,13 +10,12 @@ config.read('config.ini')
 output = config.get('common', 'output')
 interval = config.get('common', 'interval')
 
-p = psutil.Process()
 cpu = psutil.cpu_percent()
-mem_usage = (p.memory_percent() * 100).__round__(2)
-mem_virt = (psutil.virtual_memory()[3] / 1024 / 1024).__round__(2)
-disk_usage = (psutil.disk_io_counters()[2] / 1024 / 1024).__round__(2)
-disk_io = (psutil.disk_io_counters()[3] / 1024 / 1024).__round__(2)
-net_usage = (psutil.net_io_counters()[0] / 1024 / 1024).__round__(2)
+mem_usage = (psutil.Process().memory_percent() * 100).__round__(2)
+mem_virt = (psutil.virtual_memory()[3] / (1024**2)).__round__(2)
+disk_usage = (psutil.disk_io_counters()[2] / 1024**2)).__round__(2)
+disk_io = (psutil.disk_io_counters()[3] / 1024**2)).__round__(2)
+net_usage = (psutil.net_io_counters()[0] / 1024**2)).__round__(2)
 snapshot = 1
 
 
