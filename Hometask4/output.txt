@@ -1,0 +1,3824 @@
+Snapshot 1:,             Snapshot Time - 2016-08-24 12:38:59 :
+CPU: 8.0
+Memory Usage: 24.93 Mb
+Virtual Memory: 3774.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13183.17 Mb
+Network Information 115.15 MB
+
+Snapshot 2:,             Snapshot Time - 2016-08-24 12:39:04 :
+CPU: 2.4
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.88 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13184.03 Mb
+Network Information 115.15 MB
+
+Snapshot 3:,             Snapshot Time - 2016-08-24 12:39:09 :
+CPU: 2.1
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.86 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13184.15 Mb
+Network Information 115.15 MB
+
+Snapshot 4:,             Snapshot Time - 2016-08-24 12:39:14 :
+CPU: 2.6
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13184.21 Mb
+Network Information 115.15 MB
+
+Snapshot 5:,             Snapshot Time - 2016-08-24 12:39:19 :
+CPU: 9.6
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13184.33 Mb
+Network Information 115.15 MB
+
+Snapshot 6:,             Snapshot Time - 2016-08-24 12:39:24 :
+CPU: 5.0
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.67 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13184.75 Mb
+Network Information 115.15 MB
+
+Snapshot 7:,             Snapshot Time - 2016-08-24 12:39:29 :
+CPU: 18.7
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.82 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13185.25 Mb
+Network Information 115.15 MB
+
+Snapshot 8:,             Snapshot Time - 2016-08-24 12:39:34 :
+CPU: 17.2
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.94 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13185.34 Mb
+Network Information 115.15 MB
+
+Snapshot 9:,             Snapshot Time - 2016-08-24 12:39:39 :
+CPU: 8.6
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.91 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.09 Mb
+Network Information 115.15 MB
+
+Snapshot 10:,             Snapshot Time - 2016-08-24 12:39:44 :
+CPU: 9.8
+Memory Usage: 25.04 Mb
+Virtual Memory: 3775.25 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.21 Mb
+Network Information 115.15 MB
+
+Snapshot 11:,             Snapshot Time - 2016-08-24 12:39:49 :
+CPU: 16.1
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.7 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.33 Mb
+Network Information 115.15 MB
+
+Snapshot 12:,             Snapshot Time - 2016-08-24 12:39:54 :
+CPU: 8.1
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.54 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.38 Mb
+Network Information 115.15 MB
+
+Snapshot 13:,             Snapshot Time - 2016-08-24 12:39:59 :
+CPU: 7.4
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.52 Mb
+Network Information 115.15 MB
+
+Snapshot 14:,             Snapshot Time - 2016-08-24 12:40:04 :
+CPU: 5.7
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.75 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.74 Mb
+Network Information 115.15 MB
+
+Snapshot 15:,             Snapshot Time - 2016-08-24 12:40:09 :
+CPU: 20.7
+Memory Usage: 25.04 Mb
+Virtual Memory: 3773.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13197.8 Mb
+Network Information 115.15 MB
+
+Snapshot 1:,         Snapshot Time - 2016-08-24 12:40:18 :
+CPU: 10.4
+Memory Usage: 24.92 Mb
+Virtual Memory: 3774.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13198.59 Mb
+Network Information 115.15 MB
+
+Snapshot 2:,         Snapshot Time - 2016-08-24 12:40:23 :
+CPU: 2.0
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13199.09 Mb
+Network Information 115.15 MB
+
+Snapshot 3:,         Snapshot Time - 2016-08-24 12:40:28 :
+CPU: 2.0
+Memory Usage: 25.02 Mb
+Virtual Memory: 3774.04 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13199.38 Mb
+Network Information 115.15 MB
+
+Snapshot 4:,         Snapshot Time - 2016-08-24 12:40:33 :
+CPU: 8.9
+Memory Usage: 25.02 Mb
+Virtual Memory: 3774.11 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13200.7 Mb
+Network Information 115.15 MB
+
+Snapshot 5:,         Snapshot Time - 2016-08-24 12:40:38 :
+CPU: 5.8
+Memory Usage: 25.02 Mb
+Virtual Memory: 3773.92 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13201.09 Mb
+Network Information 115.15 MB
+
+Snapshot 6:,         Snapshot Time - 2016-08-24 12:40:43 :
+CPU: 13.9
+Memory Usage: 25.02 Mb
+Virtual Memory: 3773.94 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13201.25 Mb
+Network Information 115.15 MB
+
+Snapshot 7:,         Snapshot Time - 2016-08-24 12:40:48 :
+CPU: 9.8
+Memory Usage: 25.02 Mb
+Virtual Memory: 3773.91 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13201.63 Mb
+Network Information 115.15 MB
+
+Snapshot 8:,         Snapshot Time - 2016-08-24 12:40:53 :
+CPU: 15.9
+Memory Usage: 25.02 Mb
+Virtual Memory: 3774.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13201.99 Mb
+Network Information 115.15 MB
+
+Snapshot 1:, Snapshot Time - 2016-08-24 12:41:01 :
+CPU: 7.1 %
+Memory Usage: 24.92 Mb
+Virtual Memory: 3774.16 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13204.99 Mb
+Network Information 115.15 MB
+
+Snapshot 2:, Snapshot Time - 2016-08-24 12:41:06 :
+CPU: 2.1 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3773.87 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13205.35 Mb
+Network Information 115.15 MB
+
+Snapshot 3:, Snapshot Time - 2016-08-24 12:41:11 :
+CPU: 20.9 %
+Memory Usage: 25.02 Mb
+Virtual Memory: 3774.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13205.42 Mb
+Network Information 115.15 MB
+
+Snapshot 4:, Snapshot Time - 2016-08-24 12:41:16 :
+CPU: 16.1 %
+Memory Usage: 25.02 Mb
+Virtual Memory: 3776.16 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13205.56 Mb
+Network Information 115.15 MB
+
+Snapshot 5:, Snapshot Time - 2016-08-24 12:41:21 :
+CPU: 10.8 %
+Memory Usage: 25.02 Mb
+Virtual Memory: 3775.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13206.35 Mb
+Network Information 115.15 MB
+
+Snapshot 6:, Snapshot Time - 2016-08-24 12:41:26 :
+CPU: 7.5 %
+Memory Usage: 25.02 Mb
+Virtual Memory: 3774.15 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13210.68 Mb
+Network Information 115.15 MB
+
+Snapshot 1:, Snapshot Time - 2016-08-24 12:41:37 :
+CPU: 7.2 %
+Memory Usage: 24.91 Mb
+Virtual Memory: 3774.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13214.02 Mb
+Network Information 115.15 MB
+
+Snapshot 2:, Snapshot Time - 2016-08-24 12:41:42 :
+CPU: 1.9 %
+Memory Usage: 25.0 Mb
+Virtual Memory: 3774.03 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13214.24 Mb
+Network Information 115.15 MB
+
+Snapshot 3:, Snapshot Time - 2016-08-24 12:41:47 :
+CPU: 3.6 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13214.42 Mb
+Network Information 115.15 MB
+
+Snapshot 4:, Snapshot Time - 2016-08-24 12:41:52 :
+CPU: 9.0 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.04 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13214.76 Mb
+Network Information 115.15 MB
+
+Snapshot 5:, Snapshot Time - 2016-08-24 12:41:57 :
+CPU: 4.0 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13215.17 Mb
+Network Information 115.15 MB
+
+Snapshot 6:, Snapshot Time - 2016-08-24 12:42:02 :
+CPU: 7.5 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3773.91 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13216.85 Mb
+Network Information 115.15 MB
+
+Snapshot 7:, Snapshot Time - 2016-08-24 12:42:07 :
+CPU: 1.5 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3773.85 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13217.3 Mb
+Network Information 115.15 MB
+
+Snapshot 8:, Snapshot Time - 2016-08-24 12:42:12 :
+CPU: 8.2 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.54 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13223.5 Mb
+Network Information 115.15 MB
+
+Snapshot 9:, Snapshot Time - 2016-08-24 12:42:17 :
+CPU: 4.7 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.54 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13223.92 Mb
+Network Information 115.15 MB
+
+Snapshot 10:, Snapshot Time - 2016-08-24 12:42:22 :
+CPU: 2.6 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13223.92 Mb
+Network Information 115.15 MB
+
+Snapshot 11:, Snapshot Time - 2016-08-24 12:42:27 :
+CPU: 4.4 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.32 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13224.11 Mb
+Network Information 115.15 MB
+
+Snapshot 12:, Snapshot Time - 2016-08-24 12:42:32 :
+CPU: 3.3 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13224.3 Mb
+Network Information 115.15 MB
+
+Snapshot 13:, Snapshot Time - 2016-08-24 12:42:37 :
+CPU: 18.5 %
+Memory Usage: 25.01 Mb
+Virtual Memory: 3774.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13224.49 Mb
+Network Information 115.15 MB
+
+Snapshot 1:, Snapshot Time - 2016-08-24 12:43:31 :
+CPU: 7.2 %
+Memory Usage: 24.93 Mb
+Virtual Memory: 3770.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13243.77 Mb
+Network Information 115.19 MB
+
+Snapshot 2:, Snapshot Time - 2016-08-24 12:43:36 :
+CPU: 1.5 %
+Memory Usage: 25.02 Mb
+Virtual Memory: 3770.59 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13251.76 Mb
+Network Information 115.19 MB
+
+Snapshot 3:, Snapshot Time - 2016-08-24 12:43:41 :
+CPU: 7.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13251.99 Mb
+Network Information 115.19 MB
+
+Snapshot 4:, Snapshot Time - 2016-08-24 12:43:46 :
+CPU: 12.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.55 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13252.1 Mb
+Network Information 115.19 MB
+
+Snapshot 5:, Snapshot Time - 2016-08-24 12:43:51 :
+CPU: 7.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.07 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13252.69 Mb
+Network Information 115.19 MB
+
+Snapshot 6:, Snapshot Time - 2016-08-24 12:43:56 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3769.85 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13253.43 Mb
+Network Information 115.19 MB
+
+Snapshot 7:, Snapshot Time - 2016-08-24 12:44:01 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3769.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13254.84 Mb
+Network Information 115.19 MB
+
+Snapshot 8:, Snapshot Time - 2016-08-24 12:44:06 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3769.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13254.93 Mb
+Network Information 115.19 MB
+
+Snapshot 9:, Snapshot Time - 2016-08-24 12:44:11 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3769.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13254.96 Mb
+Network Information 115.19 MB
+
+Snapshot 10:, Snapshot Time - 2016-08-24 12:44:16 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3769.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13255.34 Mb
+Network Information 115.19 MB
+
+Snapshot 11:, Snapshot Time - 2016-08-24 12:44:21 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.07 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13261.17 Mb
+Network Information 115.19 MB
+
+Snapshot 12:, Snapshot Time - 2016-08-24 12:44:26 :
+CPU: 4.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.22 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13261.42 Mb
+Network Information 115.19 MB
+
+Snapshot 13:, Snapshot Time - 2016-08-24 12:44:31 :
+CPU: 8.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.15 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13261.8 Mb
+Network Information 115.19 MB
+
+Snapshot 14:, Snapshot Time - 2016-08-24 12:44:36 :
+CPU: 10.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.41 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13262.0 Mb
+Network Information 115.19 MB
+
+Snapshot 15:, Snapshot Time - 2016-08-24 12:44:41 :
+CPU: 6.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13262.23 Mb
+Network Information 115.19 MB
+
+Snapshot 16:, Snapshot Time - 2016-08-24 12:44:46 :
+CPU: 4.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13262.86 Mb
+Network Information 115.19 MB
+
+Snapshot 17:, Snapshot Time - 2016-08-24 12:44:51 :
+CPU: 7.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13263.04 Mb
+Network Information 115.19 MB
+
+Snapshot 18:, Snapshot Time - 2016-08-24 12:44:56 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13263.17 Mb
+Network Information 115.19 MB
+
+Snapshot 19:, Snapshot Time - 2016-08-24 12:45:01 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.14 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13263.45 Mb
+Network Information 115.19 MB
+
+Snapshot 20:, Snapshot Time - 2016-08-24 12:45:06 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13263.83 Mb
+Network Information 115.19 MB
+
+Snapshot 21:, Snapshot Time - 2016-08-24 12:45:11 :
+CPU: 3.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3770.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13265.27 Mb
+Network Information 115.19 MB
+
+Snapshot 22:, Snapshot Time - 2016-08-24 12:45:16 :
+CPU: 3.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.82 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13271.79 Mb
+Network Information 115.19 MB
+
+Snapshot 23:, Snapshot Time - 2016-08-24 12:45:21 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.41 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13271.83 Mb
+Network Information 115.19 MB
+
+Snapshot 24:, Snapshot Time - 2016-08-24 12:45:26 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13271.86 Mb
+Network Information 115.19 MB
+
+Snapshot 25:, Snapshot Time - 2016-08-24 12:45:31 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13271.95 Mb
+Network Information 115.19 MB
+
+Snapshot 26:, Snapshot Time - 2016-08-24 12:45:36 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.14 Mb
+Network Information 115.19 MB
+
+Snapshot 27:, Snapshot Time - 2016-08-24 12:45:41 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.64 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.15 Mb
+Network Information 115.19 MB
+
+Snapshot 28:, Snapshot Time - 2016-08-24 12:45:46 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.64 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.24 Mb
+Network Information 115.19 MB
+
+Snapshot 29:, Snapshot Time - 2016-08-24 12:45:51 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.64 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.3 Mb
+Network Information 115.19 MB
+
+Snapshot 30:, Snapshot Time - 2016-08-24 12:45:56 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.33 Mb
+Network Information 115.19 MB
+
+Snapshot 31:, Snapshot Time - 2016-08-24 12:46:01 :
+CPU: 17.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.45 Mb
+Network Information 115.19 MB
+
+Snapshot 32:, Snapshot Time - 2016-08-24 12:46:06 :
+CPU: 17.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.6 Mb
+Network Information 115.19 MB
+
+Snapshot 33:, Snapshot Time - 2016-08-24 12:46:11 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.94 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13272.87 Mb
+Network Information 115.19 MB
+
+Snapshot 34:, Snapshot Time - 2016-08-24 12:46:16 :
+CPU: 10.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.26 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13273.32 Mb
+Network Information 115.19 MB
+
+Snapshot 35:, Snapshot Time - 2016-08-24 12:46:21 :
+CPU: 4.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13273.53 Mb
+Network Information 115.19 MB
+
+Snapshot 36:, Snapshot Time - 2016-08-24 12:46:26 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.15 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13273.81 Mb
+Network Information 115.19 MB
+
+Snapshot 37:, Snapshot Time - 2016-08-24 12:46:31 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.98 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13274.01 Mb
+Network Information 115.19 MB
+
+Snapshot 38:, Snapshot Time - 2016-08-24 12:46:36 :
+CPU: 9.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13274.51 Mb
+Network Information 115.19 MB
+
+Snapshot 39:, Snapshot Time - 2016-08-24 12:46:41 :
+CPU: 3.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.81 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13280.74 Mb
+Network Information 115.19 MB
+
+Snapshot 40:, Snapshot Time - 2016-08-24 12:46:46 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.78 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13282.21 Mb
+Network Information 115.19 MB
+
+Snapshot 41:, Snapshot Time - 2016-08-24 12:46:51 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.16 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13282.23 Mb
+Network Information 115.19 MB
+
+Snapshot 42:, Snapshot Time - 2016-08-24 12:46:56 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13282.66 Mb
+Network Information 115.19 MB
+
+Snapshot 43:, Snapshot Time - 2016-08-24 12:47:01 :
+CPU: 3.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.24 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13282.97 Mb
+Network Information 115.2 MB
+
+Snapshot 44:, Snapshot Time - 2016-08-24 12:47:06 :
+CPU: 8.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.56 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13283.09 Mb
+Network Information 115.2 MB
+
+Snapshot 45:, Snapshot Time - 2016-08-24 12:47:11 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.25 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13283.3 Mb
+Network Information 115.2 MB
+
+Snapshot 46:, Snapshot Time - 2016-08-24 12:47:16 :
+CPU: 3.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.63 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13283.64 Mb
+Network Information 115.2 MB
+
+Snapshot 47:, Snapshot Time - 2016-08-24 12:47:21 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.61 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13283.82 Mb
+Network Information 115.2 MB
+
+Snapshot 48:, Snapshot Time - 2016-08-24 12:47:26 :
+CPU: 2.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.49 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13283.96 Mb
+Network Information 115.2 MB
+
+Snapshot 49:, Snapshot Time - 2016-08-24 12:47:31 :
+CPU: 4.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.49 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13284.38 Mb
+Network Information 115.2 MB
+
+Snapshot 50:, Snapshot Time - 2016-08-24 12:47:36 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.49 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13284.42 Mb
+Network Information 115.2 MB
+
+Snapshot 51:, Snapshot Time - 2016-08-24 12:47:41 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.49 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13284.77 Mb
+Network Information 115.2 MB
+
+Snapshot 52:, Snapshot Time - 2016-08-24 12:47:46 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.73 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13290.83 Mb
+Network Information 115.2 MB
+
+Snapshot 53:, Snapshot Time - 2016-08-24 12:47:52 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.73 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.12 Mb
+Network Information 115.2 MB
+
+Snapshot 54:, Snapshot Time - 2016-08-24 12:47:57 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.78 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.2 Mb
+Network Information 115.22 MB
+
+Snapshot 55:, Snapshot Time - 2016-08-24 12:48:02 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.78 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.29 Mb
+Network Information 115.22 MB
+
+Snapshot 56:, Snapshot Time - 2016-08-24 12:48:07 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.32 Mb
+Network Information 115.22 MB
+
+Snapshot 57:, Snapshot Time - 2016-08-24 12:48:12 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.4 Mb
+Network Information 115.22 MB
+
+Snapshot 58:, Snapshot Time - 2016-08-24 12:48:17 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.64 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.46 Mb
+Network Information 115.22 MB
+
+Snapshot 59:, Snapshot Time - 2016-08-24 12:48:22 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.54 Mb
+Network Information 115.22 MB
+
+Snapshot 60:, Snapshot Time - 2016-08-24 12:48:27 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.61 Mb
+Network Information 115.22 MB
+
+Snapshot 61:, Snapshot Time - 2016-08-24 12:48:32 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.64 Mb
+Network Information 115.22 MB
+
+Snapshot 62:, Snapshot Time - 2016-08-24 12:48:37 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.68 Mb
+Network Information 115.22 MB
+
+Snapshot 63:, Snapshot Time - 2016-08-24 12:48:42 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.74 Mb
+Network Information 115.22 MB
+
+Snapshot 64:, Snapshot Time - 2016-08-24 12:48:47 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.81 Mb
+Network Information 115.22 MB
+
+Snapshot 65:, Snapshot Time - 2016-08-24 12:48:52 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.85 Mb
+Network Information 115.22 MB
+
+Snapshot 66:, Snapshot Time - 2016-08-24 12:48:57 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.92 Mb
+Network Information 115.22 MB
+
+Snapshot 67:, Snapshot Time - 2016-08-24 12:49:02 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13292.99 Mb
+Network Information 115.22 MB
+
+Snapshot 68:, Snapshot Time - 2016-08-24 12:49:07 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.04 Mb
+Network Information 115.22 MB
+
+Snapshot 69:, Snapshot Time - 2016-08-24 12:49:12 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.08 Mb
+Network Information 115.22 MB
+
+Snapshot 70:, Snapshot Time - 2016-08-24 12:49:17 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.14 Mb
+Network Information 115.22 MB
+
+Snapshot 71:, Snapshot Time - 2016-08-24 12:49:22 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.17 Mb
+Network Information 115.22 MB
+
+Snapshot 72:, Snapshot Time - 2016-08-24 12:49:27 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.23 Mb
+Network Information 115.22 MB
+
+Snapshot 73:, Snapshot Time - 2016-08-24 12:49:32 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.66 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.27 Mb
+Network Information 115.22 MB
+
+Snapshot 74:, Snapshot Time - 2016-08-24 12:49:37 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.36 Mb
+Network Information 115.22 MB
+
+Snapshot 75:, Snapshot Time - 2016-08-24 12:49:42 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.46 Mb
+Network Information 115.22 MB
+
+Snapshot 76:, Snapshot Time - 2016-08-24 12:49:47 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.6 Mb
+Network Information 115.22 MB
+
+Snapshot 77:, Snapshot Time - 2016-08-24 12:49:52 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.64 Mb
+Network Information 115.22 MB
+
+Snapshot 78:, Snapshot Time - 2016-08-24 12:49:57 :
+CPU: 2.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.68 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.71 Mb
+Network Information 115.22 MB
+
+Snapshot 79:, Snapshot Time - 2016-08-24 12:50:02 :
+CPU: 3.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.49 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.89 Mb
+Network Information 115.22 MB
+
+Snapshot 80:, Snapshot Time - 2016-08-24 12:50:07 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13293.91 Mb
+Network Information 115.22 MB
+
+Snapshot 81:, Snapshot Time - 2016-08-24 12:50:12 :
+CPU: 3.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.1 Mb
+Network Information 115.22 MB
+
+Snapshot 82:, Snapshot Time - 2016-08-24 12:50:17 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.19 Mb
+Network Information 115.22 MB
+
+Snapshot 83:, Snapshot Time - 2016-08-24 12:50:22 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.23 Mb
+Network Information 115.22 MB
+
+Snapshot 84:, Snapshot Time - 2016-08-24 12:50:27 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.29 Mb
+Network Information 115.22 MB
+
+Snapshot 85:, Snapshot Time - 2016-08-24 12:50:32 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.35 Mb
+Network Information 115.22 MB
+
+Snapshot 86:, Snapshot Time - 2016-08-24 12:50:37 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.42 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.4 Mb
+Network Information 115.22 MB
+
+Snapshot 87:, Snapshot Time - 2016-08-24 12:50:42 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.42 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.46 Mb
+Network Information 115.22 MB
+
+Snapshot 88:, Snapshot Time - 2016-08-24 12:50:47 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.42 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.55 Mb
+Network Information 115.22 MB
+
+Snapshot 89:, Snapshot Time - 2016-08-24 12:50:52 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.56 Mb
+Network Information 115.22 MB
+
+Snapshot 90:, Snapshot Time - 2016-08-24 12:50:57 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.63 Mb
+Network Information 115.22 MB
+
+Snapshot 91:, Snapshot Time - 2016-08-24 12:51:02 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.69 Mb
+Network Information 115.22 MB
+
+Snapshot 92:, Snapshot Time - 2016-08-24 12:51:07 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.74 Mb
+Network Information 115.22 MB
+
+Snapshot 93:, Snapshot Time - 2016-08-24 12:51:12 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.78 Mb
+Network Information 115.22 MB
+
+Snapshot 94:, Snapshot Time - 2016-08-24 12:51:17 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.84 Mb
+Network Information 115.22 MB
+
+Snapshot 95:, Snapshot Time - 2016-08-24 12:51:22 :
+CPU: 1.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.88 Mb
+Network Information 115.22 MB
+
+Snapshot 96:, Snapshot Time - 2016-08-24 12:51:27 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13294.96 Mb
+Network Information 115.22 MB
+
+Snapshot 97:, Snapshot Time - 2016-08-24 12:51:32 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.02 Mb
+Network Information 115.22 MB
+
+Snapshot 98:, Snapshot Time - 2016-08-24 12:51:37 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.06 Mb
+Network Information 115.22 MB
+
+Snapshot 99:, Snapshot Time - 2016-08-24 12:51:42 :
+CPU: 2.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.13 Mb
+Network Information 115.22 MB
+
+Snapshot 100:, Snapshot Time - 2016-08-24 12:51:47 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.23 Mb
+Network Information 115.22 MB
+
+Snapshot 101:, Snapshot Time - 2016-08-24 12:51:52 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.27 Mb
+Network Information 115.22 MB
+
+Snapshot 102:, Snapshot Time - 2016-08-24 12:51:57 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.34 Mb
+Network Information 115.22 MB
+
+Snapshot 103:, Snapshot Time - 2016-08-24 12:52:02 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.41 Mb
+Network Information 115.22 MB
+
+Snapshot 104:, Snapshot Time - 2016-08-24 12:52:07 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.45 Mb
+Network Information 115.22 MB
+
+Snapshot 105:, Snapshot Time - 2016-08-24 12:52:12 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.53 Mb
+Network Information 115.22 MB
+
+Snapshot 106:, Snapshot Time - 2016-08-24 12:52:17 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.47 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.59 Mb
+Network Information 115.22 MB
+
+Snapshot 107:, Snapshot Time - 2016-08-24 12:52:22 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.63 Mb
+Network Information 115.22 MB
+
+Snapshot 108:, Snapshot Time - 2016-08-24 12:52:27 :
+CPU: 3.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.74 Mb
+Network Information 115.22 MB
+
+Snapshot 109:, Snapshot Time - 2016-08-24 12:52:32 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.8 Mb
+Network Information 115.22 MB
+
+Snapshot 110:, Snapshot Time - 2016-08-24 12:52:37 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.86 Mb
+Network Information 115.22 MB
+
+Snapshot 111:, Snapshot Time - 2016-08-24 12:52:42 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.92 Mb
+Network Information 115.22 MB
+
+Snapshot 112:, Snapshot Time - 2016-08-24 12:52:47 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.99 Mb
+Network Information 115.22 MB
+
+Snapshot 113:, Snapshot Time - 2016-08-24 12:52:52 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13295.99 Mb
+Network Information 115.22 MB
+
+Snapshot 114:, Snapshot Time - 2016-08-24 12:52:57 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.06 Mb
+Network Information 115.24 MB
+
+Snapshot 115:, Snapshot Time - 2016-08-24 12:53:02 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.13 Mb
+Network Information 115.24 MB
+
+Snapshot 116:, Snapshot Time - 2016-08-24 12:53:07 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.75 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.2 Mb
+Network Information 115.24 MB
+
+Snapshot 117:, Snapshot Time - 2016-08-24 12:53:12 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.75 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.28 Mb
+Network Information 115.24 MB
+
+Snapshot 118:, Snapshot Time - 2016-08-24 12:53:17 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.37 Mb
+Network Information 115.24 MB
+
+Snapshot 119:, Snapshot Time - 2016-08-24 12:53:22 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.49 Mb
+Network Information 115.24 MB
+
+Snapshot 120:, Snapshot Time - 2016-08-24 12:53:27 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.52 Mb
+Network Information 115.24 MB
+
+Snapshot 121:, Snapshot Time - 2016-08-24 12:53:32 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.58 Mb
+Network Information 115.24 MB
+
+Snapshot 122:, Snapshot Time - 2016-08-24 12:53:37 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.58 Mb
+Network Information 115.24 MB
+
+Snapshot 123:, Snapshot Time - 2016-08-24 12:53:42 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.63 Mb
+Network Information 115.24 MB
+
+Snapshot 124:, Snapshot Time - 2016-08-24 12:53:47 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.7 Mb
+Network Information 115.24 MB
+
+Snapshot 125:, Snapshot Time - 2016-08-24 12:53:52 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.76 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.73 Mb
+Network Information 115.24 MB
+
+Snapshot 126:, Snapshot Time - 2016-08-24 12:53:57 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.81 Mb
+Network Information 115.24 MB
+
+Snapshot 127:, Snapshot Time - 2016-08-24 12:54:02 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.87 Mb
+Network Information 115.24 MB
+
+Snapshot 128:, Snapshot Time - 2016-08-24 12:54:07 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.91 Mb
+Network Information 115.24 MB
+
+Snapshot 129:, Snapshot Time - 2016-08-24 12:54:12 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13296.99 Mb
+Network Information 115.24 MB
+
+Snapshot 130:, Snapshot Time - 2016-08-24 12:54:17 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.06 Mb
+Network Information 115.24 MB
+
+Snapshot 131:, Snapshot Time - 2016-08-24 12:54:22 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.09 Mb
+Network Information 115.24 MB
+
+Snapshot 132:, Snapshot Time - 2016-08-24 12:54:27 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.72 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.16 Mb
+Network Information 115.24 MB
+
+Snapshot 133:, Snapshot Time - 2016-08-24 12:54:32 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.74 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.24 Mb
+Network Information 115.24 MB
+
+Snapshot 134:, Snapshot Time - 2016-08-24 12:54:37 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.27 Mb
+Network Information 115.24 MB
+
+Snapshot 135:, Snapshot Time - 2016-08-24 12:54:42 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.41 Mb
+Network Information 115.24 MB
+
+Snapshot 136:, Snapshot Time - 2016-08-24 12:54:47 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.54 Mb
+Network Information 115.24 MB
+
+Snapshot 137:, Snapshot Time - 2016-08-24 12:54:52 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.58 Mb
+Network Information 115.24 MB
+
+Snapshot 138:, Snapshot Time - 2016-08-24 12:54:57 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.64 Mb
+Network Information 115.24 MB
+
+Snapshot 139:, Snapshot Time - 2016-08-24 12:55:02 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.69 Mb
+Network Information 115.24 MB
+
+Snapshot 140:, Snapshot Time - 2016-08-24 12:55:07 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.79 Mb
+Network Information 115.24 MB
+
+Snapshot 141:, Snapshot Time - 2016-08-24 12:55:12 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.87 Mb
+Network Information 115.24 MB
+
+Snapshot 142:, Snapshot Time - 2016-08-24 12:55:17 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.94 Mb
+Network Information 115.24 MB
+
+Snapshot 143:, Snapshot Time - 2016-08-24 12:55:22 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13297.99 Mb
+Network Information 115.24 MB
+
+Snapshot 144:, Snapshot Time - 2016-08-24 12:55:27 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.06 Mb
+Network Information 115.24 MB
+
+Snapshot 145:, Snapshot Time - 2016-08-24 12:55:32 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.13 Mb
+Network Information 115.24 MB
+
+Snapshot 146:, Snapshot Time - 2016-08-24 12:55:37 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.16 Mb
+Network Information 115.24 MB
+
+Snapshot 147:, Snapshot Time - 2016-08-24 12:55:42 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.24 Mb
+Network Information 115.24 MB
+
+Snapshot 148:, Snapshot Time - 2016-08-24 12:55:47 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.36 Mb
+Network Information 115.24 MB
+
+Snapshot 149:, Snapshot Time - 2016-08-24 12:55:52 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.39 Mb
+Network Information 115.24 MB
+
+Snapshot 150:, Snapshot Time - 2016-08-24 12:55:57 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.46 Mb
+Network Information 115.24 MB
+
+Snapshot 151:, Snapshot Time - 2016-08-24 12:56:02 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.52 Mb
+Network Information 115.24 MB
+
+Snapshot 152:, Snapshot Time - 2016-08-24 12:56:07 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.55 Mb
+Network Information 115.24 MB
+
+Snapshot 153:, Snapshot Time - 2016-08-24 12:56:12 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.63 Mb
+Network Information 115.24 MB
+
+Snapshot 154:, Snapshot Time - 2016-08-24 12:56:17 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.7 Mb
+Network Information 115.24 MB
+
+Snapshot 155:, Snapshot Time - 2016-08-24 12:56:22 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.78 Mb
+Network Information 115.24 MB
+
+Snapshot 156:, Snapshot Time - 2016-08-24 12:56:27 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.84 Mb
+Network Information 115.24 MB
+
+Snapshot 157:, Snapshot Time - 2016-08-24 12:56:32 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.9 Mb
+Network Information 115.24 MB
+
+Snapshot 158:, Snapshot Time - 2016-08-24 12:56:37 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.93 Mb
+Network Information 115.24 MB
+
+Snapshot 159:, Snapshot Time - 2016-08-24 12:56:42 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.71 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13298.99 Mb
+Network Information 115.24 MB
+
+Snapshot 160:, Snapshot Time - 2016-08-24 12:56:47 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.06 Mb
+Network Information 115.24 MB
+
+Snapshot 161:, Snapshot Time - 2016-08-24 12:56:52 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.69 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.09 Mb
+Network Information 115.24 MB
+
+Snapshot 162:, Snapshot Time - 2016-08-24 12:56:57 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.15 Mb
+Network Information 115.24 MB
+
+Snapshot 163:, Snapshot Time - 2016-08-24 12:57:02 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.24 Mb
+Network Information 115.24 MB
+
+Snapshot 164:, Snapshot Time - 2016-08-24 12:57:07 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.27 Mb
+Network Information 115.24 MB
+
+Snapshot 165:, Snapshot Time - 2016-08-24 12:57:12 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3771.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.34 Mb
+Network Information 115.24 MB
+
+Snapshot 166:, Snapshot Time - 2016-08-24 12:57:17 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.87 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.49 Mb
+Network Information 115.24 MB
+
+Snapshot 167:, Snapshot Time - 2016-08-24 12:57:22 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.63 Mb
+Network Information 115.24 MB
+
+Snapshot 168:, Snapshot Time - 2016-08-24 12:57:27 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.7 Mb
+Network Information 115.24 MB
+
+Snapshot 169:, Snapshot Time - 2016-08-24 12:57:32 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.76 Mb
+Network Information 115.24 MB
+
+Snapshot 170:, Snapshot Time - 2016-08-24 12:57:37 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.88 Mb
+Network Information 115.24 MB
+
+Snapshot 171:, Snapshot Time - 2016-08-24 12:57:42 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.91 Mb
+Network Information 115.24 MB
+
+Snapshot 172:, Snapshot Time - 2016-08-24 12:57:47 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13299.98 Mb
+Network Information 115.24 MB
+
+Snapshot 173:, Snapshot Time - 2016-08-24 12:57:52 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.84 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.02 Mb
+Network Information 115.24 MB
+
+Snapshot 174:, Snapshot Time - 2016-08-24 12:57:57 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.99 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.13 Mb
+Network Information 115.27 MB
+
+Snapshot 175:, Snapshot Time - 2016-08-24 12:58:02 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.99 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.18 Mb
+Network Information 115.27 MB
+
+Snapshot 176:, Snapshot Time - 2016-08-24 12:58:08 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.99 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.25 Mb
+Network Information 115.27 MB
+
+Snapshot 177:, Snapshot Time - 2016-08-24 12:58:13 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.37 Mb
+Network Information 115.27 MB
+
+Snapshot 178:, Snapshot Time - 2016-08-24 12:58:18 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.43 Mb
+Network Information 115.27 MB
+
+Snapshot 179:, Snapshot Time - 2016-08-24 12:58:23 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.51 Mb
+Network Information 115.27 MB
+
+Snapshot 180:, Snapshot Time - 2016-08-24 12:58:28 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.58 Mb
+Network Information 115.27 MB
+
+Snapshot 181:, Snapshot Time - 2016-08-24 12:58:33 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.63 Mb
+Network Information 115.27 MB
+
+Snapshot 182:, Snapshot Time - 2016-08-24 12:58:38 :
+CPU: 1.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.66 Mb
+Network Information 115.27 MB
+
+Snapshot 183:, Snapshot Time - 2016-08-24 12:58:43 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.69 Mb
+Network Information 115.27 MB
+
+Snapshot 184:, Snapshot Time - 2016-08-24 12:58:48 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.79 Mb
+Network Information 115.27 MB
+
+Snapshot 185:, Snapshot Time - 2016-08-24 12:58:53 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.84 Mb
+Network Information 115.27 MB
+
+Snapshot 186:, Snapshot Time - 2016-08-24 12:58:58 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13300.96 Mb
+Network Information 115.27 MB
+
+Snapshot 187:, Snapshot Time - 2016-08-24 12:59:03 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.06 Mb
+Network Information 115.27 MB
+
+Snapshot 188:, Snapshot Time - 2016-08-24 12:59:08 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.32 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.09 Mb
+Network Information 115.27 MB
+
+Snapshot 189:, Snapshot Time - 2016-08-24 12:59:13 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.13 Mb
+Network Information 115.27 MB
+
+Snapshot 190:, Snapshot Time - 2016-08-24 12:59:18 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.22 Mb
+Network Information 115.27 MB
+
+Snapshot 191:, Snapshot Time - 2016-08-24 12:59:23 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.29 Mb
+Network Information 115.27 MB
+
+Snapshot 192:, Snapshot Time - 2016-08-24 12:59:28 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.38 Mb
+Network Information 115.27 MB
+
+Snapshot 193:, Snapshot Time - 2016-08-24 12:59:33 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.42 Mb
+Network Information 115.27 MB
+
+Snapshot 194:, Snapshot Time - 2016-08-24 12:59:38 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.45 Mb
+Network Information 115.27 MB
+
+Snapshot 195:, Snapshot Time - 2016-08-24 12:59:43 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.57 Mb
+Network Information 115.27 MB
+
+Snapshot 196:, Snapshot Time - 2016-08-24 12:59:48 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.81 Mb
+Network Information 115.27 MB
+
+Snapshot 197:, Snapshot Time - 2016-08-24 12:59:53 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.87 Mb
+Network Information 115.27 MB
+
+Snapshot 198:, Snapshot Time - 2016-08-24 12:59:58 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.44 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13301.94 Mb
+Network Information 115.27 MB
+
+Snapshot 199:, Snapshot Time - 2016-08-24 13:00:03 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.09 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.04 Mb
+Network Information 115.27 MB
+
+Snapshot 200:, Snapshot Time - 2016-08-24 13:00:08 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.1 Mb
+Network Information 115.27 MB
+
+Snapshot 201:, Snapshot Time - 2016-08-24 13:00:13 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.14 Mb
+Network Information 115.27 MB
+
+Snapshot 202:, Snapshot Time - 2016-08-24 13:00:18 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.23 Mb
+Network Information 115.27 MB
+
+Snapshot 203:, Snapshot Time - 2016-08-24 13:00:23 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.96 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.29 Mb
+Network Information 115.27 MB
+
+Snapshot 204:, Snapshot Time - 2016-08-24 13:00:28 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.94 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.32 Mb
+Network Information 115.27 MB
+
+Snapshot 205:, Snapshot Time - 2016-08-24 13:00:33 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3772.94 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.42 Mb
+Network Information 115.27 MB
+
+Snapshot 206:, Snapshot Time - 2016-08-24 13:00:38 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.45 Mb
+Network Information 115.27 MB
+
+Snapshot 207:, Snapshot Time - 2016-08-24 13:00:43 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.5 Mb
+Network Information 115.27 MB
+
+Snapshot 208:, Snapshot Time - 2016-08-24 13:00:48 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.58 Mb
+Network Information 115.27 MB
+
+Snapshot 209:, Snapshot Time - 2016-08-24 13:00:53 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.64 Mb
+Network Information 115.27 MB
+
+Snapshot 210:, Snapshot Time - 2016-08-24 13:00:58 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.69 Mb
+Network Information 115.27 MB
+
+Snapshot 211:, Snapshot Time - 2016-08-24 13:01:03 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.74 Mb
+Network Information 115.27 MB
+
+Snapshot 212:, Snapshot Time - 2016-08-24 13:01:08 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.84 Mb
+Network Information 115.27 MB
+
+Snapshot 213:, Snapshot Time - 2016-08-24 13:01:13 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.9 Mb
+Network Information 115.27 MB
+
+Snapshot 214:, Snapshot Time - 2016-08-24 13:01:18 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13302.98 Mb
+Network Information 115.27 MB
+
+Snapshot 215:, Snapshot Time - 2016-08-24 13:01:23 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.04 Mb
+Network Information 115.27 MB
+
+Snapshot 216:, Snapshot Time - 2016-08-24 13:01:28 :
+CPU: 1.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.05 Mb
+Network Information 115.27 MB
+
+Snapshot 217:, Snapshot Time - 2016-08-24 13:01:33 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.1 Mb
+Network Information 115.27 MB
+
+Snapshot 218:, Snapshot Time - 2016-08-24 13:01:38 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.1 Mb
+Network Information 115.27 MB
+
+Snapshot 219:, Snapshot Time - 2016-08-24 13:01:43 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.19 Mb
+Network Information 115.27 MB
+
+Snapshot 220:, Snapshot Time - 2016-08-24 13:01:48 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.27 Mb
+Network Information 115.27 MB
+
+Snapshot 221:, Snapshot Time - 2016-08-24 13:01:53 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.3 Mb
+Network Information 115.27 MB
+
+Snapshot 222:, Snapshot Time - 2016-08-24 13:01:58 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.37 Mb
+Network Information 115.27 MB
+
+Snapshot 223:, Snapshot Time - 2016-08-24 13:02:03 :
+CPU: 1.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.37 Mb
+Network Information 115.27 MB
+
+Snapshot 224:, Snapshot Time - 2016-08-24 13:02:08 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.4 Mb
+Network Information 115.27 MB
+
+Snapshot 225:, Snapshot Time - 2016-08-24 13:02:13 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.44 Mb
+Network Information 115.27 MB
+
+Snapshot 226:, Snapshot Time - 2016-08-24 13:02:18 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.49 Mb
+Network Information 115.27 MB
+
+Snapshot 227:, Snapshot Time - 2016-08-24 13:02:23 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.63 Mb
+Network Information 115.27 MB
+
+Snapshot 228:, Snapshot Time - 2016-08-24 13:02:28 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.67 Mb
+Network Information 115.27 MB
+
+Snapshot 229:, Snapshot Time - 2016-08-24 13:02:33 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.19 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.7 Mb
+Network Information 115.27 MB
+
+Snapshot 230:, Snapshot Time - 2016-08-24 13:02:38 :
+CPU: 1.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.62 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.7 Mb
+Network Information 115.27 MB
+
+Snapshot 231:, Snapshot Time - 2016-08-24 13:02:43 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3773.6 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.74 Mb
+Network Information 115.27 MB
+
+Snapshot 232:, Snapshot Time - 2016-08-24 13:02:48 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.75 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.82 Mb
+Network Information 115.27 MB
+
+Snapshot 233:, Snapshot Time - 2016-08-24 13:02:53 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.74 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.85 Mb
+Network Information 115.27 MB
+
+Snapshot 234:, Snapshot Time - 2016-08-24 13:02:58 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.82 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.99 Mb
+Network Information 115.28 MB
+
+Snapshot 235:, Snapshot Time - 2016-08-24 13:03:03 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.82 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13303.99 Mb
+Network Information 115.28 MB
+
+Snapshot 236:, Snapshot Time - 2016-08-24 13:03:08 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.02 Mb
+Network Information 115.28 MB
+
+Snapshot 237:, Snapshot Time - 2016-08-24 13:03:13 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.83 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.07 Mb
+Network Information 115.28 MB
+
+Snapshot 238:, Snapshot Time - 2016-08-24 13:03:18 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.17 Mb
+Network Information 115.28 MB
+
+Snapshot 239:, Snapshot Time - 2016-08-24 13:03:23 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.21 Mb
+Network Information 115.28 MB
+
+Snapshot 240:, Snapshot Time - 2016-08-24 13:03:28 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.08 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.26 Mb
+Network Information 115.28 MB
+
+Snapshot 241:, Snapshot Time - 2016-08-24 13:03:33 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.2 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.31 Mb
+Network Information 115.28 MB
+
+Snapshot 242:, Snapshot Time - 2016-08-24 13:03:38 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.35 Mb
+Network Information 115.28 MB
+
+Snapshot 243:, Snapshot Time - 2016-08-24 13:03:43 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.36 Mb
+Network Information 115.28 MB
+
+Snapshot 244:, Snapshot Time - 2016-08-24 13:03:48 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.37 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.42 Mb
+Network Information 115.28 MB
+
+Snapshot 245:, Snapshot Time - 2016-08-24 13:03:53 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.25 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.45 Mb
+Network Information 115.28 MB
+
+Snapshot 246:, Snapshot Time - 2016-08-24 13:03:58 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.63 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.52 Mb
+Network Information 115.28 MB
+
+Snapshot 247:, Snapshot Time - 2016-08-24 13:04:03 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.63 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.59 Mb
+Network Information 115.28 MB
+
+Snapshot 248:, Snapshot Time - 2016-08-24 13:04:08 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.62 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.62 Mb
+Network Information 115.28 MB
+
+Snapshot 249:, Snapshot Time - 2016-08-24 13:04:13 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.74 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.69 Mb
+Network Information 115.28 MB
+
+Snapshot 250:, Snapshot Time - 2016-08-24 13:04:18 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.98 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.75 Mb
+Network Information 115.28 MB
+
+Snapshot 251:, Snapshot Time - 2016-08-24 13:04:23 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.78 Mb
+Network Information 115.28 MB
+
+Snapshot 252:, Snapshot Time - 2016-08-24 13:04:28 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.86 Mb
+Network Information 115.28 MB
+
+Snapshot 253:, Snapshot Time - 2016-08-24 13:04:33 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.88 Mb
+Network Information 115.28 MB
+
+Snapshot 254:, Snapshot Time - 2016-08-24 13:04:38 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13304.92 Mb
+Network Information 115.28 MB
+
+Snapshot 255:, Snapshot Time - 2016-08-24 13:04:43 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.0 Mb
+Network Information 115.28 MB
+
+Snapshot 256:, Snapshot Time - 2016-08-24 13:04:48 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.22 Mb
+Network Information 115.28 MB
+
+Snapshot 257:, Snapshot Time - 2016-08-24 13:04:53 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.29 Mb
+Network Information 115.28 MB
+
+Snapshot 258:, Snapshot Time - 2016-08-24 13:04:58 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.07 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.34 Mb
+Network Information 115.28 MB
+
+Snapshot 259:, Snapshot Time - 2016-08-24 13:05:03 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.07 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.4 Mb
+Network Information 115.28 MB
+
+Snapshot 260:, Snapshot Time - 2016-08-24 13:05:08 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.43 Mb
+Network Information 115.28 MB
+
+Snapshot 261:, Snapshot Time - 2016-08-24 13:05:13 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.47 Mb
+Network Information 115.28 MB
+
+Snapshot 262:, Snapshot Time - 2016-08-24 13:05:18 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.51 Mb
+Network Information 115.28 MB
+
+Snapshot 263:, Snapshot Time - 2016-08-24 13:05:23 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.53 Mb
+Network Information 115.28 MB
+
+Snapshot 264:, Snapshot Time - 2016-08-24 13:05:28 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.62 Mb
+Network Information 115.28 MB
+
+Snapshot 265:, Snapshot Time - 2016-08-24 13:05:33 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.68 Mb
+Network Information 115.28 MB
+
+Snapshot 266:, Snapshot Time - 2016-08-24 13:05:38 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.72 Mb
+Network Information 115.28 MB
+
+Snapshot 267:, Snapshot Time - 2016-08-24 13:05:43 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.76 Mb
+Network Information 115.28 MB
+
+Snapshot 268:, Snapshot Time - 2016-08-24 13:05:48 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.82 Mb
+Network Information 115.28 MB
+
+Snapshot 269:, Snapshot Time - 2016-08-24 13:05:53 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.84 Mb
+Network Information 115.28 MB
+
+Snapshot 270:, Snapshot Time - 2016-08-24 13:05:58 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.91 Mb
+Network Information 115.28 MB
+
+Snapshot 271:, Snapshot Time - 2016-08-24 13:06:03 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.98 Mb
+Network Information 115.28 MB
+
+Snapshot 272:, Snapshot Time - 2016-08-24 13:06:08 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3777.95 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13305.98 Mb
+Network Information 115.28 MB
+
+Snapshot 273:, Snapshot Time - 2016-08-24 13:06:13 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.07 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.06 Mb
+Network Information 115.28 MB
+
+Snapshot 274:, Snapshot Time - 2016-08-24 13:06:18 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.32 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.13 Mb
+Network Information 115.28 MB
+
+Snapshot 275:, Snapshot Time - 2016-08-24 13:06:23 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.32 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.15 Mb
+Network Information 115.28 MB
+
+Snapshot 276:, Snapshot Time - 2016-08-24 13:06:28 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.09 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.21 Mb
+Network Information 115.28 MB
+
+Snapshot 277:, Snapshot Time - 2016-08-24 13:06:33 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.21 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.24 Mb
+Network Information 115.28 MB
+
+Snapshot 278:, Snapshot Time - 2016-08-24 13:06:38 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.31 Mb
+Network Information 115.28 MB
+
+Snapshot 279:, Snapshot Time - 2016-08-24 13:06:43 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.31 Mb
+Network Information 115.28 MB
+
+Snapshot 280:, Snapshot Time - 2016-08-24 13:06:48 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.38 Mb
+Network Information 115.28 MB
+
+Snapshot 281:, Snapshot Time - 2016-08-24 13:06:53 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.47 Mb
+Network Information 115.28 MB
+
+Snapshot 282:, Snapshot Time - 2016-08-24 13:06:58 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.52 Mb
+Network Information 115.28 MB
+
+Snapshot 283:, Snapshot Time - 2016-08-24 13:07:03 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.54 Mb
+Network Information 115.28 MB
+
+Snapshot 284:, Snapshot Time - 2016-08-24 13:07:08 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.57 Mb
+Network Information 115.28 MB
+
+Snapshot 285:, Snapshot Time - 2016-08-24 13:07:13 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.61 Mb
+Network Information 115.28 MB
+
+Snapshot 286:, Snapshot Time - 2016-08-24 13:07:18 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.65 Mb
+Network Information 115.28 MB
+
+Snapshot 287:, Snapshot Time - 2016-08-24 13:07:23 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.7 Mb
+Network Information 115.28 MB
+
+Snapshot 288:, Snapshot Time - 2016-08-24 13:07:28 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.79 Mb
+Network Information 115.28 MB
+
+Snapshot 289:, Snapshot Time - 2016-08-24 13:07:33 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.84 Mb
+Network Information 115.28 MB
+
+Snapshot 290:, Snapshot Time - 2016-08-24 13:07:38 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.87 Mb
+Network Information 115.28 MB
+
+Snapshot 291:, Snapshot Time - 2016-08-24 13:07:43 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.91 Mb
+Network Information 115.28 MB
+
+Snapshot 292:, Snapshot Time - 2016-08-24 13:07:48 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13306.96 Mb
+Network Information 115.28 MB
+
+Snapshot 293:, Snapshot Time - 2016-08-24 13:07:53 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.01 Mb
+Network Information 115.28 MB
+
+Snapshot 294:, Snapshot Time - 2016-08-24 13:07:58 :
+CPU: 3.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.07 Mb
+Network Information 115.31 MB
+
+Snapshot 295:, Snapshot Time - 2016-08-24 13:08:03 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.14 Mb
+Network Information 115.31 MB
+
+Snapshot 296:, Snapshot Time - 2016-08-24 13:08:08 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.22 Mb
+Network Information 115.31 MB
+
+Snapshot 297:, Snapshot Time - 2016-08-24 13:08:13 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.27 Mb
+Network Information 115.31 MB
+
+Snapshot 298:, Snapshot Time - 2016-08-24 13:08:18 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.37 Mb
+Network Information 115.31 MB
+
+Snapshot 299:, Snapshot Time - 2016-08-24 13:08:23 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.45 Mb
+Network Information 115.31 MB
+
+Snapshot 300:, Snapshot Time - 2016-08-24 13:08:28 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.92 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.52 Mb
+Network Information 115.31 MB
+
+Snapshot 301:, Snapshot Time - 2016-08-24 13:08:33 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.92 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.58 Mb
+Network Information 115.31 MB
+
+Snapshot 302:, Snapshot Time - 2016-08-24 13:08:38 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.92 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.6 Mb
+Network Information 115.31 MB
+
+Snapshot 303:, Snapshot Time - 2016-08-24 13:08:43 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.04 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.67 Mb
+Network Information 115.31 MB
+
+Snapshot 304:, Snapshot Time - 2016-08-24 13:08:48 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.04 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.74 Mb
+Network Information 115.31 MB
+
+Snapshot 305:, Snapshot Time - 2016-08-24 13:08:53 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.04 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.77 Mb
+Network Information 115.31 MB
+
+Snapshot 306:, Snapshot Time - 2016-08-24 13:08:58 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.87 Mb
+Network Information 115.31 MB
+
+Snapshot 307:, Snapshot Time - 2016-08-24 13:09:03 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.98 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.93 Mb
+Network Information 115.31 MB
+
+Snapshot 308:, Snapshot Time - 2016-08-24 13:09:08 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.98 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13307.97 Mb
+Network Information 115.31 MB
+
+Snapshot 309:, Snapshot Time - 2016-08-24 13:09:13 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.98 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.04 Mb
+Network Information 115.31 MB
+
+Snapshot 310:, Snapshot Time - 2016-08-24 13:09:18 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.09 Mb
+Network Information 115.31 MB
+
+Snapshot 311:, Snapshot Time - 2016-08-24 13:09:23 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.16 Mb
+Network Information 115.31 MB
+
+Snapshot 312:, Snapshot Time - 2016-08-24 13:09:28 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.24 Mb
+Network Information 115.31 MB
+
+Snapshot 313:, Snapshot Time - 2016-08-24 13:09:33 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.31 Mb
+Network Information 115.31 MB
+
+Snapshot 314:, Snapshot Time - 2016-08-24 13:09:38 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.0 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.33 Mb
+Network Information 115.31 MB
+
+Snapshot 315:, Snapshot Time - 2016-08-24 13:09:43 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.45 Mb
+Network Information 115.31 MB
+
+Snapshot 316:, Snapshot Time - 2016-08-24 13:09:48 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.59 Mb
+Network Information 115.31 MB
+
+Snapshot 317:, Snapshot Time - 2016-08-24 13:09:53 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.63 Mb
+Network Information 115.31 MB
+
+Snapshot 318:, Snapshot Time - 2016-08-24 13:09:58 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.12 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.7 Mb
+Network Information 115.31 MB
+
+Snapshot 319:, Snapshot Time - 2016-08-24 13:10:03 :
+CPU: 3.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13308.86 Mb
+Network Information 115.31 MB
+
+Snapshot 320:, Snapshot Time - 2016-08-24 13:10:08 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.04 Mb
+Network Information 115.31 MB
+
+Snapshot 321:, Snapshot Time - 2016-08-24 13:10:13 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.37 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.08 Mb
+Network Information 115.31 MB
+
+Snapshot 322:, Snapshot Time - 2016-08-24 13:10:18 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.17 Mb
+Network Information 115.31 MB
+
+Snapshot 323:, Snapshot Time - 2016-08-24 13:10:24 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.17 Mb
+Network Information 115.31 MB
+
+Snapshot 324:, Snapshot Time - 2016-08-24 13:10:29 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.25 Mb
+Network Information 115.31 MB
+
+Snapshot 325:, Snapshot Time - 2016-08-24 13:10:34 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.29 Mb
+Network Information 115.31 MB
+
+Snapshot 326:, Snapshot Time - 2016-08-24 13:10:39 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.33 Mb
+Network Information 115.31 MB
+
+Snapshot 327:, Snapshot Time - 2016-08-24 13:10:44 :
+CPU: 2.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.45 Mb
+Network Information 115.31 MB
+
+Snapshot 328:, Snapshot Time - 2016-08-24 13:10:49 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.52 Mb
+Network Information 115.31 MB
+
+Snapshot 329:, Snapshot Time - 2016-08-24 13:10:54 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.56 Mb
+Network Information 115.31 MB
+
+Snapshot 330:, Snapshot Time - 2016-08-24 13:10:59 :
+CPU: 2.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.64 Mb
+Network Information 115.31 MB
+
+Snapshot 331:, Snapshot Time - 2016-08-24 13:11:04 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.7 Mb
+Network Information 115.31 MB
+
+Snapshot 332:, Snapshot Time - 2016-08-24 13:11:09 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.74 Mb
+Network Information 115.31 MB
+
+Snapshot 333:, Snapshot Time - 2016-08-24 13:11:14 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.81 Mb
+Network Information 115.31 MB
+
+Snapshot 334:, Snapshot Time - 2016-08-24 13:11:19 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.91 Mb
+Network Information 115.31 MB
+
+Snapshot 335:, Snapshot Time - 2016-08-24 13:11:24 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13309.95 Mb
+Network Information 115.31 MB
+
+Snapshot 336:, Snapshot Time - 2016-08-24 13:11:29 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.06 Mb
+Network Information 115.31 MB
+
+Snapshot 337:, Snapshot Time - 2016-08-24 13:11:34 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.13 Mb
+Network Information 115.31 MB
+
+Snapshot 338:, Snapshot Time - 2016-08-24 13:11:39 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.34 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.16 Mb
+Network Information 115.31 MB
+
+Snapshot 339:, Snapshot Time - 2016-08-24 13:11:44 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.2 Mb
+Network Information 115.31 MB
+
+Snapshot 340:, Snapshot Time - 2016-08-24 13:11:49 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.3 Mb
+Network Information 115.31 MB
+
+Snapshot 341:, Snapshot Time - 2016-08-24 13:11:54 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.34 Mb
+Network Information 115.31 MB
+
+Snapshot 342:, Snapshot Time - 2016-08-24 13:11:59 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.42 Mb
+Network Information 115.31 MB
+
+Snapshot 343:, Snapshot Time - 2016-08-24 13:12:04 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.49 Mb
+Network Information 115.31 MB
+
+Snapshot 344:, Snapshot Time - 2016-08-24 13:12:09 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.54 Mb
+Network Information 115.31 MB
+
+Snapshot 345:, Snapshot Time - 2016-08-24 13:12:14 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.58 Mb
+Network Information 115.31 MB
+
+Snapshot 346:, Snapshot Time - 2016-08-24 13:12:19 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.62 Mb
+Network Information 115.31 MB
+
+Snapshot 347:, Snapshot Time - 2016-08-24 13:12:24 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.63 Mb
+Network Information 115.31 MB
+
+Snapshot 348:, Snapshot Time - 2016-08-24 13:12:29 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.36 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.7 Mb
+Network Information 115.31 MB
+
+Snapshot 349:, Snapshot Time - 2016-08-24 13:12:34 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.51 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.74 Mb
+Network Information 115.31 MB
+
+Snapshot 350:, Snapshot Time - 2016-08-24 13:12:39 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.78 Mb
+Network Information 115.31 MB
+
+Snapshot 351:, Snapshot Time - 2016-08-24 13:12:44 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.79 Mb
+Network Information 115.31 MB
+
+Snapshot 352:, Snapshot Time - 2016-08-24 13:12:49 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.88 Mb
+Network Information 115.31 MB
+
+Snapshot 353:, Snapshot Time - 2016-08-24 13:12:54 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.88 Mb
+Network Information 115.31 MB
+
+Snapshot 354:, Snapshot Time - 2016-08-24 13:12:59 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13310.99 Mb
+Network Information 115.54 MB
+
+Snapshot 355:, Snapshot Time - 2016-08-24 13:13:04 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.06 Mb
+Network Information 115.54 MB
+
+Snapshot 356:, Snapshot Time - 2016-08-24 13:13:09 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.08 Mb
+Network Information 115.54 MB
+
+Snapshot 357:, Snapshot Time - 2016-08-24 13:13:14 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.16 Mb
+Network Information 115.54 MB
+
+Snapshot 358:, Snapshot Time - 2016-08-24 13:13:19 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.2 Mb
+Network Information 115.54 MB
+
+Snapshot 359:, Snapshot Time - 2016-08-24 13:13:24 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.27 Mb
+Network Information 115.54 MB
+
+Snapshot 360:, Snapshot Time - 2016-08-24 13:13:29 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.57 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.33 Mb
+Network Information 115.54 MB
+
+Snapshot 361:, Snapshot Time - 2016-08-24 13:13:34 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.57 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.4 Mb
+Network Information 115.54 MB
+
+Snapshot 362:, Snapshot Time - 2016-08-24 13:13:39 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.57 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.43 Mb
+Network Information 115.54 MB
+
+Snapshot 363:, Snapshot Time - 2016-08-24 13:13:44 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.57 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.51 Mb
+Network Information 115.54 MB
+
+Snapshot 364:, Snapshot Time - 2016-08-24 13:13:49 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3778.57 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13311.57 Mb
+Network Information 115.54 MB
+
+Snapshot 365:, Snapshot Time - 2016-08-24 13:13:54 :
+CPU: 10.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.29 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13318.93 Mb
+Network Information 115.55 MB
+
+Snapshot 366:, Snapshot Time - 2016-08-24 13:13:59 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.11 Mb
+Network Information 115.55 MB
+
+Snapshot 367:, Snapshot Time - 2016-08-24 13:14:04 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.18 Mb
+Network Information 115.55 MB
+
+Snapshot 368:, Snapshot Time - 2016-08-24 13:14:09 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.22 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.21 Mb
+Network Information 115.55 MB
+
+Snapshot 369:, Snapshot Time - 2016-08-24 13:14:14 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.38 Mb
+Network Information 115.55 MB
+
+Snapshot 370:, Snapshot Time - 2016-08-24 13:14:19 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.42 Mb
+Network Information 115.55 MB
+
+Snapshot 371:, Snapshot Time - 2016-08-24 13:14:24 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.23 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13319.44 Mb
+Network Information 115.55 MB
+
+Snapshot 372:, Snapshot Time - 2016-08-24 13:14:29 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.48 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.4 Mb
+Network Information 115.55 MB
+
+Snapshot 373:, Snapshot Time - 2016-08-24 13:14:34 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3774.48 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.51 Mb
+Network Information 115.55 MB
+
+Snapshot 374:, Snapshot Time - 2016-08-24 13:14:39 :
+CPU: 2.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3779.14 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.57 Mb
+Network Information 115.55 MB
+
+Snapshot 375:, Snapshot Time - 2016-08-24 13:14:44 :
+CPU: 4.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.51 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.76 Mb
+Network Information 115.55 MB
+
+Snapshot 376:, Snapshot Time - 2016-08-24 13:14:49 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.46 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.97 Mb
+Network Information 115.55 MB
+
+Snapshot 377:, Snapshot Time - 2016-08-24 13:14:54 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.26 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13327.98 Mb
+Network Information 115.55 MB
+
+Snapshot 378:, Snapshot Time - 2016-08-24 13:14:59 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.26 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.04 Mb
+Network Information 115.55 MB
+
+Snapshot 379:, Snapshot Time - 2016-08-24 13:15:04 :
+CPU: 1.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.26 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.09 Mb
+Network Information 115.55 MB
+
+Snapshot 380:, Snapshot Time - 2016-08-24 13:15:09 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.53 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.11 Mb
+Network Information 115.55 MB
+
+Snapshot 381:, Snapshot Time - 2016-08-24 13:15:14 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.61 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.27 Mb
+Network Information 115.55 MB
+
+Snapshot 382:, Snapshot Time - 2016-08-24 13:15:19 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.61 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.31 Mb
+Network Information 115.55 MB
+
+Snapshot 383:, Snapshot Time - 2016-08-24 13:15:24 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.61 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.38 Mb
+Network Information 115.55 MB
+
+Snapshot 384:, Snapshot Time - 2016-08-24 13:15:29 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.63 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.43 Mb
+Network Information 115.55 MB
+
+Snapshot 385:, Snapshot Time - 2016-08-24 13:15:34 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.63 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.52 Mb
+Network Information 115.55 MB
+
+Snapshot 386:, Snapshot Time - 2016-08-24 13:15:39 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.3 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.52 Mb
+Network Information 115.55 MB
+
+Snapshot 387:, Snapshot Time - 2016-08-24 13:15:44 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.56 Mb
+Network Information 115.55 MB
+
+Snapshot 388:, Snapshot Time - 2016-08-24 13:15:49 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.66 Mb
+Network Information 115.55 MB
+
+Snapshot 389:, Snapshot Time - 2016-08-24 13:15:54 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.67 Mb
+Network Information 115.55 MB
+
+Snapshot 390:, Snapshot Time - 2016-08-24 13:15:59 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.77 Mb
+Network Information 115.55 MB
+
+Snapshot 391:, Snapshot Time - 2016-08-24 13:16:04 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.82 Mb
+Network Information 115.55 MB
+
+Snapshot 392:, Snapshot Time - 2016-08-24 13:16:09 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.85 Mb
+Network Information 115.55 MB
+
+Snapshot 393:, Snapshot Time - 2016-08-24 13:16:14 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.89 Mb
+Network Information 115.55 MB
+
+Snapshot 394:, Snapshot Time - 2016-08-24 13:16:19 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.93 Mb
+Network Information 115.55 MB
+
+Snapshot 395:, Snapshot Time - 2016-08-24 13:16:24 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3776.18 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13328.95 Mb
+Network Information 115.55 MB
+
+Snapshot 396:, Snapshot Time - 2016-08-24 13:16:29 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.01 Mb
+Network Information 115.55 MB
+
+Snapshot 397:, Snapshot Time - 2016-08-24 13:16:34 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.08 Mb
+Network Information 115.55 MB
+
+Snapshot 398:, Snapshot Time - 2016-08-24 13:16:39 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.13 Mb
+Network Information 115.55 MB
+
+Snapshot 399:, Snapshot Time - 2016-08-24 13:16:44 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.13 Mb
+Network Information 115.55 MB
+
+Snapshot 400:, Snapshot Time - 2016-08-24 13:16:49 :
+CPU: 3.7 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.2 Mb
+Network Information 115.55 MB
+
+Snapshot 401:, Snapshot Time - 2016-08-24 13:16:54 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.21 Mb
+Network Information 115.55 MB
+
+Snapshot 402:, Snapshot Time - 2016-08-24 13:16:59 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.28 Mb
+Network Information 115.55 MB
+
+Snapshot 403:, Snapshot Time - 2016-08-24 13:17:04 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.38 Mb
+Network Information 115.55 MB
+
+Snapshot 404:, Snapshot Time - 2016-08-24 13:17:09 :
+CPU: 1.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.41 Mb
+Network Information 115.55 MB
+
+Snapshot 405:, Snapshot Time - 2016-08-24 13:17:14 :
+CPU: 4.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.48 Mb
+Network Information 115.55 MB
+
+Snapshot 406:, Snapshot Time - 2016-08-24 13:17:19 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.54 Mb
+Network Information 115.55 MB
+
+Snapshot 407:, Snapshot Time - 2016-08-24 13:17:24 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.55 Mb
+Network Information 115.55 MB
+
+Snapshot 408:, Snapshot Time - 2016-08-24 13:17:29 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.61 Mb
+Network Information 115.55 MB
+
+Snapshot 409:, Snapshot Time - 2016-08-24 13:17:34 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.33 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.66 Mb
+Network Information 115.55 MB
+
+Snapshot 410:, Snapshot Time - 2016-08-24 13:17:39 :
+CPU: 2.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.69 Mb
+Network Information 115.55 MB
+
+Snapshot 411:, Snapshot Time - 2016-08-24 13:17:44 :
+CPU: 1.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.7 Mb
+Network Information 115.55 MB
+
+Snapshot 412:, Snapshot Time - 2016-08-24 13:17:49 :
+CPU: 5.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.35 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.79 Mb
+Network Information 115.55 MB
+
+Snapshot 413:, Snapshot Time - 2016-08-24 13:17:54 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.27 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13329.92 Mb
+Network Information 115.55 MB
+
+Snapshot 414:, Snapshot Time - 2016-08-24 13:17:59 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.3 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.0 Mb
+Network Information 115.58 MB
+
+Snapshot 415:, Snapshot Time - 2016-08-24 13:18:04 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.32 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.06 Mb
+Network Information 115.58 MB
+
+Snapshot 416:, Snapshot Time - 2016-08-24 13:18:09 :
+CPU: 2.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.12 Mb
+Network Information 115.58 MB
+
+Snapshot 417:, Snapshot Time - 2016-08-24 13:18:14 :
+CPU: 2.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.2 Mb
+Network Information 115.58 MB
+
+Snapshot 418:, Snapshot Time - 2016-08-24 13:18:19 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.24 Mb
+Network Information 115.58 MB
+
+Snapshot 419:, Snapshot Time - 2016-08-24 13:18:24 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.29 Mb
+Network Information 115.58 MB
+
+Snapshot 420:, Snapshot Time - 2016-08-24 13:18:29 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.44 Mb
+Network Information 115.58 MB
+
+Snapshot 421:, Snapshot Time - 2016-08-24 13:18:34 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.39 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.46 Mb
+Network Information 115.58 MB
+
+Snapshot 422:, Snapshot Time - 2016-08-24 13:18:39 :
+CPU: 2.2 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.57 Mb
+Network Information 115.58 MB
+
+Snapshot 423:, Snapshot Time - 2016-08-24 13:18:44 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.63 Mb
+Network Information 115.58 MB
+
+Snapshot 424:, Snapshot Time - 2016-08-24 13:18:49 :
+CPU: 3.3 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.38 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.7 Mb
+Network Information 115.58 MB
+
+Snapshot 425:, Snapshot Time - 2016-08-24 13:18:54 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.54 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.7 Mb
+Network Information 115.58 MB
+
+Snapshot 426:, Snapshot Time - 2016-08-24 13:18:59 :
+CPU: 2.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.45 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.8 Mb
+Network Information 115.58 MB
+
+Snapshot 427:, Snapshot Time - 2016-08-24 13:19:04 :
+CPU: 3.1 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.43 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13330.97 Mb
+Network Information 115.58 MB
+
+Snapshot 428:, Snapshot Time - 2016-08-24 13:19:09 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.31 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.09 Mb
+Network Information 115.58 MB
+
+Snapshot 429:, Snapshot Time - 2016-08-24 13:19:14 :
+CPU: 1.9 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.24 Mb
+Network Information 115.58 MB
+
+Snapshot 430:, Snapshot Time - 2016-08-24 13:19:19 :
+CPU: 3.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.31 Mb
+Network Information 115.58 MB
+
+Snapshot 431:, Snapshot Time - 2016-08-24 13:19:24 :
+CPU: 1.4 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.31 Mb
+Network Information 115.58 MB
+
+Snapshot 432:, Snapshot Time - 2016-08-24 13:19:29 :
+CPU: 3.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.38 Mb
+Network Information 115.58 MB
+
+Snapshot 433:, Snapshot Time - 2016-08-24 13:19:34 :
+CPU: 1.8 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.43 Mb
+Network Information 115.58 MB
+
+Snapshot 434:, Snapshot Time - 2016-08-24 13:19:39 :
+CPU: 1.6 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.3 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.49 Mb
+Network Information 115.58 MB
+
+Snapshot 435:, Snapshot Time - 2016-08-24 13:19:44 :
+CPU: 2.5 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.71 Mb
+Network Information 115.58 MB
+
+Snapshot 436:, Snapshot Time - 2016-08-24 13:19:49 :
+CPU: 2.0 %
+Memory Usage: 25.03 Mb
+Virtual Memory: 3775.28 Mb
+Disk Usage 3736.7 Mb
+Disk IO 13331.84 Mb
+Network Information 115.58 MB
+

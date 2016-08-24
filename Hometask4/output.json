@@ -1,0 +1,61 @@
+[
+   "SNAPSHOT 1: 2016-08-24 12:38:23 : ",
+   {
+      "CPU": "8.9 %",
+      "Disk IO": "13175.79 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "24.91 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3772.31 MB"
+   }
+][
+   "SNAPSHOT 2: 2016-08-24 12:38:28 : ",
+   {
+      "CPU": "1.9 %",
+      "Disk IO": "13176.1 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "25.0 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3772.34 MB"
+   }
+][
+   "SNAPSHOT 3: 2016-08-24 12:38:33 : ",
+   {
+      "CPU": "2.4 %",
+      "Disk IO": "13176.18 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "25.02 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3772.33 MB"
+   }
+][
+   "SNAPSHOT 4: 2016-08-24 12:38:38 : ",
+   {
+      "CPU": "2.1 %",
+      "Disk IO": "13176.27 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "25.02 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3773.98 MB"
+   }
+][
+   "SNAPSHOT 5: 2016-08-24 12:38:43 : ",
+   {
+      "CPU": "2.6 %",
+      "Disk IO": "13176.35 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "25.02 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3775.9 MB"
+   }
+][
+   "SNAPSHOT 6: 2016-08-24 12:38:48 : ",
+   {
+      "CPU": "2.3 %",
+      "Disk IO": "13176.78 MB",
+      "Disk Usage": "3736.7 MB",
+      "Memory Usage": "25.02 MB",
+      "Network Information": "115.15 MB",
+      "Virtual Memory": "3775.9 MB"
+   }
+]
