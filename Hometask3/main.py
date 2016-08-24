@@ -41,6 +41,7 @@ def outjson():
     snaptime = datetime.datetime.strftime(time, format)
     dict = {
         'CPU': str(cpu) + ' %',
+        'Memory Usage': str(mem_usage) + " MB",
         'Virtual Memory': str(mem_virt) + " MB",
         'Disk Usage': str(disk_usage) + " MB",
         'Disk IO': str(disk_io) + " MB",
